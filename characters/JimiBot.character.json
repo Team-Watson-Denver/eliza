@@ -5,9 +5,7 @@
     "plugins": [],
     "settings": {
         "ragKnowledge": false,
-        "secrets": {
-            "OPENAI_API_KEY": "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"
-        },
+        "secrets": {},
         "voice": {},
         "model": "gpt-4o-mini",
         "modelConfig": {}

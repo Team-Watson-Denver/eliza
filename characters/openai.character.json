@@ -5,9 +5,7 @@
     "plugins": [],
     "settings": {
         "ragKnowledge": false,
-        "secrets": {
-            "OPENAI_API_KEY": "your openai key here"
-        },
+        "secrets": {},
         "voice": {},
         "model": "gpt-4o-mini",
         "modelConfig": {}
