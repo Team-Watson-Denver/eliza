@@ -1,0 +1,16 @@
+To run on:
+  Twitter: .env 
+          TWITTER_USERNAME= # Account username
+          TWITTER_PASSWORD= # Account password
+          TWITTER_EMAIL=    # Account email
+          TWITTER_2FA_SECRET= # could be needed
+
+  # will need API access for more involved tools/actions
+
+  Discord:
+          DISCORD_BOT_TOKEN= # throttled context window 2000
+
+  Farcaster:
+          Go through neynar.com
+
+  
